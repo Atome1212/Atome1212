@@ -34,7 +34,7 @@ Je suis un passionné de technologie et actuellement en formation pour devenir i
 
 ## 📫 Contactez-moi
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/colingregoire/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/colingregoire/)
 
 Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou question.
 
@@ -42,11 +42,13 @@ Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et �
 
 ## 📊 Mes statistiques GitHub
 
-![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=Atome1212&show_icons=true&theme=dark)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Atome1212&layout=compact&theme=dark)
-
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atome1212&show_icons=true&theme=dark" alt="Vos Stats GitHub" style="width: 45%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atome1212&layout=compact&theme=dark" alt="Langages les plus utilisés" style="width: 45%;"/>
+</div>
 
 ## 🏆 Trophées GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Atome1212&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Atome1212&theme=onedark" alt="Trophées GitHub" />
+</div>
