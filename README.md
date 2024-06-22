@@ -37,3 +37,11 @@ Je suis un passionné de technologie et actuellement en formation pour devenir i
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/colingregoire/)
 
 Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou question.
+
+---
+
+## 📊 Mes statistiques GitHub
+
+![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_UTILISATEUR&show_icons=true&theme=dark)
+
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_UTILISATEUR&layout=compact&theme=dark)
