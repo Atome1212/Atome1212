@@ -22,7 +22,10 @@ jobs:
           github_user_name: Atome1212
           output: images/github-contribution-grid-snake.svg
 
-      - name: List generated files (debugging)
+      - name: List root directory for debugging
+        run: ls -R
+
+      - name: List images directory for debugging
         run: ls -R images
 
       - name: Deploy Snake
