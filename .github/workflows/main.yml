@@ -12,8 +12,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          ref: main
 
       - name: Create images directory
         run: mkdir -p images
@@ -45,4 +43,4 @@ jobs:
         run: |
           git add images/github-contribution-grid-snake.svg
           git commit -m "Generate snake.svg"
-          git push https://x-access-token:${{ secrets.MY_GITHUB_TOKEN }}@github.com/Atome1212/Atome1212.git main || echo "Git push failed"
+          git push https://x-access-token:${{ secrets.MY_GITHUB_TOKEN }}@github.com/Atome1212/Atome1212.git main
