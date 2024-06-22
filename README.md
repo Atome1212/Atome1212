@@ -62,3 +62,4 @@ Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et �
 <div align="center">
   <img src="https://github.com/Atome1212/Atome1212/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
+
