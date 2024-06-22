@@ -24,6 +24,7 @@ I am a technology enthusiast currently training to become an artificial intellig
 - **BeCode**: Intensive training in artificial intelligence and Python development
 
 ## 📜 Certifications
+
 - Comming Soon
 
 ## 🌱 Always Learning
@@ -34,6 +35,11 @@ I am a technology enthusiast currently training to become an artificial intellig
 ## 📂 Current Projects
 
 - No ongoing projects
+
+## 🎨 Extra-curricular Activities
+
+- **Tennis**: Passionate about tennis and a member of several local clubs.
+- **Myrmecology**: Interest in the study of ants and participation in amateur research projects on ant behavior and ecology.
 
 ## 📫 Contact Me
 
