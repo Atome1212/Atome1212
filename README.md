@@ -54,6 +54,7 @@ Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et �
     </tr>
   </table>
 </div>
+
 ## 🔥 Contributions Récentes
 
 <div align="center" style="width: 100%;">
