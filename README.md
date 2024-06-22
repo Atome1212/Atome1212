@@ -6,7 +6,7 @@ Je suis un passionné de technologie et actuellement en formation pour devenir i
 
 ### Langages de programmation :
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) : Niveau excellent
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white) : Niveau excellent
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) : Niveau excellent
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white) : Niveau excellent
 - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white) : Niveau moyen
 
