@@ -17,9 +17,9 @@ Je suis un passionné de technologie et actuellement en formation pour devenir i
 - [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) : Niveau moyen
 
 ### Développement web :
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) : Niveau excellent
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) : Niveau moyen
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) : Niveau moyen
+- [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) : Niveau excellent
+- [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) : Niveau moyen
+- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) : Niveau moyen
 
 
 ## 📚 Formation
