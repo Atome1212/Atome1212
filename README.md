@@ -42,10 +42,12 @@ Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et �
 
 ## 📊 Mes statistiques GitHub
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atome1212&show_icons=true&theme=dark" alt="Vos Stats GitHub" style="width: 45%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atome1212&layout=compact&theme=dark" alt="Langages les plus utilisés" style="width: 45%;"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atome1212&show_icons=true&theme=dark" alt="Vos Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atome1212&layout=compact&theme=dark" alt="Langages les plus utilisés" />
 </div>
+
+---
 
 ## 🏆 Trophées GitHub
 
