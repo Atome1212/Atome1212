@@ -8,7 +8,7 @@ I am a technology enthusiast currently training to become an artificial intellig
 
 ### Programming Languages:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) : Excellent level <br>
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)](https://dev.java/) : Excellent level <br>
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/) : Excellent level <br>
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white)](https://www.php.net/) : Excellent level <br>
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) : Intermediate level <br>
 
