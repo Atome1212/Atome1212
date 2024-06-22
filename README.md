@@ -62,3 +62,10 @@ Thank you for visiting my GitHub profile! Feel free to explore my projects and c
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Atome1212&theme=onedark" alt="Trophées GitHub" />
 </div>
+
+
+## 🔥 Recent Contributions
+
+<div align="center" style="width: 100%;">
+  <img src="https://streak-stats.demolab.com?user=Atome1212&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 100%;" />
+</div>
