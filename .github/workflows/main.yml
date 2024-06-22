@@ -14,9 +14,9 @@ jobs:
 
     - name: Generate snake.svg
       uses: Platane/snk@v2
-      with:
-        github_user_name: Atome1212  # Assurez-vous que c'est bien votre nom d'utilisateur GitHub
-        output: dist/snake.svg  # Correction de la clé "output" au lieu de "outputs"
+      env:
+        GITHUB_USER_NAME: Atome1212  # Assurez-vous que c'est bien votre nom d'utilisateur GitHub
+        OUTPUT: dist/snake.svg  # Correction de la clé "output" au lieu de "outputs"
 
     - name: Commit and Push
       env:
