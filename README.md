@@ -18,14 +18,15 @@ I am a technology enthusiast currently training to become an artificial intellig
 [![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=Sass&logoColor=white)](https://sass-lang.com/) : Intermediate level <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) : Intermediate level <br>
 
-## 📚 Education
-
-- **Saint-Jean Berchmans**: Transition informatique
-- **BeCode**: Intensive training in artificial intelligence and Python development
 
 ## 📜 Certifications
 
 - Comming Soon
+
+## 📚 Education
+
+- **Saint-Jean Berchmans**: Transition informatique
+- **BeCode**: Intensive training in artificial intelligence and Python development
 
 ## 🌱 Always Learning
 
