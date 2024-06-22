@@ -2,6 +2,8 @@
 
 Je suis un passionné de technologie et actuellement en formation pour devenir ingénieur en intelligence artificielle chez BeCode. J'ai un solide bagage en programmation et en développement de logiciels, avec une expertise particulière en Python, Java, et PHP.
 
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ## 🛠️ Compétences
 
 ### Langages de programmation :
