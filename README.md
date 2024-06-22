@@ -42,7 +42,7 @@ Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et �
 
 ## 📊 Mes statistiques GitHub
 
-<div align="center" style="display: grid; grid-template-columns: 1fr; gap: 20px; max-width: 900px; margin: auto;">
+<div align="center" style="display: grid; grid-template-columns: 2fr; gap: 20px; max-width: 900px; margin: auto;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Atome1212&show_icons=true&theme=dark" alt="Vos Stats GitHub" style="width: 100%;" />
   </div>
