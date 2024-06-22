@@ -38,8 +38,8 @@ I am a technology enthusiast currently training to become an artificial intellig
 
 ## 🎨 Extra-curricular Activities
 
-- **Tennis**: Passionate about tennis and a member of several local clubs.
-- **Myrmecology**: Interest in the study of ants and participation in amateur research projects on ant behavior and ecology.
+- **Tennis**: Passionate about tennis and a member of Herve club.
+- **Myrmecology**: Interest in the study of ants.
 
 ## 📫 Contact Me
 
