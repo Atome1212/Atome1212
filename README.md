@@ -45,3 +45,8 @@ Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et �
 ![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=Atome1212&show_icons=true&theme=dark)
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Atome1212&layout=compact&theme=dark)
+
+
+## 🏆 Trophées GitHub
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VOTRE_NOM_UTILISATEUR&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
