@@ -55,9 +55,3 @@ Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et �
   <img src="https://github-profile-trophy.vercel.app/?username=Atome1212&theme=onedark" alt="Trophées GitHub" />
 </div>
 
----
-
-## 🐍 Activité de commit
-
-![Snake animation](./images/github-contribution-grid-snake.svg)
-
