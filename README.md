@@ -47,6 +47,10 @@ Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et �
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atome1212&layout=compact&theme=dark" alt="Langages les plus utilisés" />
 </div>
 
+## 🔥 Contributions Récentes
+
+[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Atome1212&theme=react-dark)](https://github.com/Atome1212)
+
 ---
 
 ## 🏆 Trophées GitHub
@@ -54,8 +58,3 @@ Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et �
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Atome1212&theme=onedark" alt="Trophées GitHub" />
 </div>
-
-## 🔥 Contributions Récentes
-
-[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Atome1212&theme=react-dark)](https://github.com/Atome1212)
-
