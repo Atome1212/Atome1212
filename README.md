@@ -49,7 +49,7 @@ Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et �
 
 ## 🔥 Contributions Récentes
 
-[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Atome1212&theme=react-dark)](https://github.com/Atome1212)
+![GitHub Streak](https://streak-stats.demolab.com?user=Atome1212&theme=dark&hide_border=true)
 
 ---
 
