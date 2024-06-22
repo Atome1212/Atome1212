@@ -5,6 +5,12 @@ Je suis un passionné de technologie et actuellement en formation pour devenir i
 ## 🛠️ Compétences
 
 ### Langages de programmation :
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white)](https://www.php.net/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) : Niveau excellent
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) : Niveau excellent
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white) : Niveau excellent
