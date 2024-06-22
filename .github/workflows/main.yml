@@ -14,7 +14,8 @@ jobs:
     - name: Generate snake.svg
       uses: Platane/snk@v2
       with:
-        github_token: ${{ secrets.MY_GITHUB_TOKEN }}
+        github_user_name: Atome1212  # Remplacez par votre nom d'utilisateur GitHub
+        output: dist/github-contribution-grid-snake.svg
     
     - name: Commit and Push
       env:
