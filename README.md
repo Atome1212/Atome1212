@@ -12,7 +12,7 @@ Je suis un passionné de technologie et actuellement en formation pour devenir i
 
 
 - [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/) : Niveau excellent
-- [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/) : Niveau excellent
+- [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)](https://dev.java/) : Niveau excellent
 - [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white)](https://www.php.net/) : Niveau excellent
 - [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) : Niveau moyen
 
