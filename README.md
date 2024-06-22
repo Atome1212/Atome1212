@@ -55,3 +55,10 @@ Thank you for visiting my GitHub profile! Feel free to explore my projects and c
     </tr>
   </table>
 </div>
+
+
+## 🏆 Trophées GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Atome1212&theme=onedark" alt="Trophées GitHub" />
+</div>
