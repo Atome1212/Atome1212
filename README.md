@@ -49,7 +49,10 @@ Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et �
 
 ## 🔥 Contributions Récentes
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Atome1212&theme=dark&hide_border=true)
+<div align="center" style="width: 100%;">
+  <img src="https://streak-stats.demolab.com?user=Atome1212&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 100%;" />
+</div>
+
 
 ---
 
