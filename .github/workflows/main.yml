@@ -1,7 +1,7 @@
 name: Generate Snake
 
 on:
-  schedule: 
+  schedule:
     - cron: "0 0 * * *" # runs at midnight every day
   workflow_dispatch: # Allows you to manually trigger the workflow from the Actions tab
 
@@ -33,10 +33,13 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git config --global --add safe.directory /github/workspace
 
+      - name: Debug Git Status
+        run: git status
+
       - name: Commit and push changes
         run: |
           git add images/github-contribution-grid-snake.svg
           git commit -m "Generate snake.svg"
-          git push origin main
+          git push origin main || echo "Git push failed"
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
