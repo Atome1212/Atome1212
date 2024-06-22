@@ -35,6 +35,9 @@ Je suis un passionné de technologie et actuellement en formation pour devenir i
 ## 📫 Contactez-moi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/colingregoire/)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)(Atome#6610)
+
+
 
 Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou question.
 
