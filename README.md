@@ -23,6 +23,9 @@ I am a technology enthusiast currently training to become an artificial intellig
 - **Saint-Jean Berchmans**: Transition informatique
 - **BeCode**: Intensive training in artificial intelligence and Python development
 
+## 📜 Certifications
+- Comming Soon
+
 ## 🌱 Always Learning
 
 - New technologies in Artificial Intelligence
