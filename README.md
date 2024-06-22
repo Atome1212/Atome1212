@@ -43,10 +43,10 @@ Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et �
 ## 📊 Mes statistiques GitHub
 
 <div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 900px; margin: auto;">
-  <div style="grid-column: 1/2">
+  <div style="grid-column: 1/2;">
     <img src="https://github-readme-stats.vercel.app/api?username=Atome1212&show_icons=true&theme=dark" alt="Vos Stats GitHub" style="width: 100%;" />
   </div>
-  <div style="grid-column: 2/3">
+  <div style="grid-column: 2/3;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atome1212&layout=compact&theme=dark" alt="Langages les plus utilisés" style="width: 100%;" />
   </div>
 </div>
