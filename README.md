@@ -39,6 +39,7 @@ I am a technology enthusiast currently training to become an artificial intellig
 
 ## 🎨 Extra-curricular Activities
 
+- **Video Games**: Enthusiast of video games, enjoying both playing and understanding game mechanics and design.
 - **Tennis**: Passionate about tennis and a member of Herve club.
 - **Myrmecology**: Interest in the study of ants.
 
