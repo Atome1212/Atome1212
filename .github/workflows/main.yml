@@ -20,6 +20,10 @@ jobs:
         uses: Platane/snk@v2.0.0-rc.2
         with:
           github_user_name: Atome1212
+          output: images/github-contribution-grid-snake.svg
+
+      - name: List generated files (debugging)
+        run: ls -R images
 
       - name: Deploy Snake
         uses: crazy-max/ghaction-github-pages@v2.1.3
