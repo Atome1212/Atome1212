@@ -6,15 +6,15 @@ Je suis un passionné de technologie et actuellement en formation pour devenir i
 
 ### Langages de programmation :
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white)](https://www.php.net/)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) : Niveau excellent
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) : Niveau excellent
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white) : Niveau excellent
-- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white) : Niveau moyen
+
+
+
+
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/) : Niveau excellent
+- [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/) : Niveau excellent
+- [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white)](https://www.php.net/) : Niveau excellent
+- [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) : Niveau moyen
 
 ### Développement web :
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) : Niveau excellent
