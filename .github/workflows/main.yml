@@ -36,19 +36,10 @@ jobs:
       - name: Debug Git Status
         run: git status
 
-      - name: Show Git Log
-        run: git log -1
-
       - name: Commit and push changes
         run: |
           git add images/github-contribution-grid-snake.svg
           git commit -m "Generate snake.svg"
-          git push origin main || echo "Git push failed"
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-
-      - name: Check GITHUB_TOKEN permissions
-        run: |
-          curl -H "Authorization: token ${{ secrets.MY_GITHUB_TOKEN }}" \
-          -H "Accept: application/vnd.github.v3+json" \
-          https://api.github.com/repos/Atome1212/Atome1212
