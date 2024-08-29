@@ -10,7 +10,7 @@ I am a technology enthusiast currently training to become an artificial intellig
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) : Excellent level <br>
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)](https://dev.java/) : Excellent level <br>
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white)](https://www.php.net/) : Excellent level <br>
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org) : Excellent level <br>
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org) : Excellent level <br>
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) : Intermediate level <br>
 
 ### Web Development:
