@@ -20,13 +20,13 @@ I am a technology enthusiast currently training to become an artificial intellig
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) : Intermediate level <br>
 
 ### Data Tools:
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)](https://powerbi.microsoft.com/) : Excellent level <br>
-[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/) : Excellent level <br>
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) : Excellent level <br>
-[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/) : Excellent level <br>
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) : Excellent level <br>
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/) : Excellent level <br>
-[![Databases](https://img.shields.io/badge/Databases-003B57?style=flat&logo=microsoft-access&logoColor=white)](https://en.wikipedia.org/wiki/Database) : Excellent level <br>
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)](https://powerbi.microsoft.com/) : Intermediate level <br>
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/) : Intermediate level <br>
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) : Intermediate level <br>
+[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/) : Intermediate level <br>
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) : Intermediate level <br>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/) : Intermediate level <br>
+[![Databases](https://img.shields.io/badge/Databases-003B57?style=flat&logo=microsoft-access&logoColor=white)](https://en.wikipedia.org/wiki/Database) : Intermediate level <br>
 
 
 ## 📜 Certifications
