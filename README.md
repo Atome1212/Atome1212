@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-I am a technology enthusiast currently training to become an artificial intelligence engineer at BeCode. I have a strong background in programming and software development, with particular expertise in Python, Java, and PHP.
+I am a passionate technology enthusiast specializing in data engineering and artificial intelligence. With a strong foundation in programming and software development, I excel in Python, Java, and PHP. My expertise extends to advanced tools like Power BI, Apache Airflow, and PySpark, enabling me to design and implement innovative, data-driven solutions with a focus on efficiency and scalability.
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
